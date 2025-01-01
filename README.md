@@ -1,5 +1,5 @@
 # About me📌
-👋 Hi there, I am Yordan Veselinov from Bulgaria. I'm currently studying at Software University for a Python Software Developer.
+👋 Hi there, I am Yordan from Bulgaria 🇧🇬. I'm currently studying at Software University 🧑‍🎓 for a Python Software Developer.
 
 # 🌱 I’m currently learning
 * Python
